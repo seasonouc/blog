@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T02:43:32.947Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="_iY6JnH2giW_Tkxk5u0I" version="21.6.8" type="github">
-  <diagram name="第 1 页" id="kRGEJu9ZU7b7unS3m7Iu">
+<mxfile host="app.diagrams.net" modified="2023-08-18T02:45:01.694Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="MGAB8X1ArKGMh0KXkDpB" version="21.6.8" type="github" pages="2">
+  <diagram name="技术架构" id="kRGEJu9ZU7b7unS3m7Iu">
     <mxGraphModel dx="1194" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -133,6 +133,14 @@
         <mxCell id="3srg-noE4V5Si0ajyIWi-49" value="zookeeper" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="264" width="90" height="42" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="S9PNqHIBpq5IR3zGWK_d" name="部署架构">
+    <mxGraphModel dx="1194" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
