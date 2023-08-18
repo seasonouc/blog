@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T02:45:01.694Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="MGAB8X1ArKGMh0KXkDpB" version="21.6.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-18T07:23:19.409Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="dm4vNejLEYUd3lVaV-pl" version="21.6.8" type="github" pages="3">
   <diagram name="技术架构" id="kRGEJu9ZU7b7unS3m7Iu">
     <mxGraphModel dx="1194" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -137,10 +137,156 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S9PNqHIBpq5IR3zGWK_d" name="部署架构">
-    <mxGraphModel dx="1194" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2021" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jaf50tJo_9u5wFrglWrf-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=http://docs-aliyun.cn-hangzhou.oss.aliyun-inc.com/assets/pic/87741/cn_zh/1534163085712/%E7%A4%BE%E4%BA%A4%E5%9F%BA%E6%9C%AC%E6%9E%B6%E6%9E%84.png;" vertex="1" parent="1">
+          <mxGeometry x="-140" width="1200" height="681" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="63G1FZcdb6bAEZiBaZbJ" name="第 3 页">
+    <mxGraphModel dx="1194" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gTfxd_Vo4mcuFjpbLV0p-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="100" width="660" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="gTfxd_Vo4mcuFjpbLV0p-2" value="个人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gTfxd_Vo4mcuFjpbLV0p-7" value="好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gTfxd_Vo4mcuFjpbLV0p-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="430" width="660" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="gTfxd_Vo4mcuFjpbLV0p-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="100" width="80" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="gTfxd_Vo4mcuFjpbLV0p-10" value="终端&lt;br&gt;IOS&amp;amp;&lt;br&gt;Android" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="190" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gTfxd_Vo4mcuFjpbLV0p-11" value="PC&amp;amp;Web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="430" width="80" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="gTfxd_Vo4mcuFjpbLV0p-12" value="平台运&lt;br&gt;营端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gTfxd_Vo4mcuFjpbLV0p-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="780" width="660" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gTfxd_Vo4mcuFjpbLV0p-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="780" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gTfxd_Vo4mcuFjpbLV0p-16" value="ToB商户&lt;br&gt;支撑（暂无）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="780" width="70" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-1" value="平台运营" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="430" width="70" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-2" value="好友搜索" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-3" value="好友轨迹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-4" value="好友位置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-5" value="文字聊天" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="165" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-6" value="IM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="165" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-7" value="基本信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-8" value="设备信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-9" value="标签" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-10" value="好友发现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="525" width="440" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="450" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-15" value="用户管理&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-16" value="用户查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-17" value="运营中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="525" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-18" value="文本表情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="555" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-19" value="内容管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="555" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-20" value="栏目管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="555" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-21" value="地址管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="555" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-22" value="首页问侯语" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="555" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="610" width="510" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-24" value="资产管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-25" value="表情包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="640" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-26" value="avatar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="640" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-27" value="贴纸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="640" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-28" value="道具" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="640" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-29" value="晚安" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="640" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-30" value="打卡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="640" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="700" width="260" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-32" value="消息中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-33" value="系统消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="730" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-34" value="图片生成H5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="730" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-35" value="站外推送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="730" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iML3niqJ7xTqNl9vSPgL-39" value="添加好友" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
